@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Fadhil Dafiamsyah</h2>
+<div style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3vqJYC6Z_6ZNyhP2o05zbjdBDFXsZHvUQfA&s'); padding: 20px;">
+<h2 align="center">Hi 👋! My name is Fadhil Dafiamsyah</h2>
+</div>
 
 ###
 
@@ -9,7 +11,7 @@
 
 ###
 
-<p>hai skdjasjldajldajldajdehdljahdlajd</p>
+
 
 ###
 
