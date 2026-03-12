@@ -5,7 +5,14 @@
 </header>
 
  <br>
+ 
  <h3 align="left">📈   My Stats :</h3>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=fi-suffix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fi-suffix&theme=tokyonight&hide_border=true&background=0d1117" width="48%"> 
+</p>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fi-suffix&theme=github-dark&radius=10&area=true&hide_border=false" alt="activity-graph graph"  />
 </div>
 
