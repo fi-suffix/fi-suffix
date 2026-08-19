@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fi-suffix&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fi-suffix&theme=tokyonight&hide_border=true&background=0d1117" width="48%" />
-  <img src="https://raw.githubusercontent.com/fi-suffix/fi-suffix/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="134" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/fi-suffix/fi-suffix/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github-dark&hide_border=false" height="106px" alt="languages graph"  />
 </p>
 <!-- komen -->
 <div align="center">
